@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrtARM/tree/mt7986
+  REPO_URL: https://github.com/padavanonly/immortalwrtARM
   REPO_BRANCH: mt7986
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: rmac6000.config
